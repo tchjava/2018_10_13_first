@@ -8,3 +8,5 @@ createing a new branch is feature1 &
 createing a new branch is  feture1 AND.
 nihao 
 heihei
+
+i am info of dev
